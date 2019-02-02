@@ -2,6 +2,8 @@
 
 [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) 
 
-[Zsh](https://ohmyz.sh/)
-
-[iTerm2](https://www.iterm2.com)
+Install:
+- VSCode
+- VSCode command line: https://code.visualstudio.com/docs/setup/mac
+- [Zsh](https://ohmyz.sh/)
+- [iTerm2](https://www.iterm2.com)
